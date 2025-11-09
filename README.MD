@@ -9,7 +9,7 @@ Repository for practicing algorithms and data structures in JavaScript.
 - Jest (unit tests)
 
 ## Project Structure
-
+```
 algorithms
 ├── package-lock.json
 ├── package.json
@@ -22,6 +22,7 @@ algorithms
 └── tests
     └── sorting
         └── 001-bubble-sort.test.js
+```
 
 
 ## How to Run Tests
